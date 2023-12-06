@@ -18,6 +18,9 @@ Data visualization is a critical part of any data analysis. Visualizations make 
 
 3. **ProductName %GT Sum of LineTotal**: This pie chart shows that the Sport-100 Helmet (in three colors: Black, Blue, and Red) accounts for more than 30% of the LineTotal, followed by the Mountain Tire and the Road Tire. The other products have less than 5% of the LineTotal each.
 
+![image](https://github.com/mohammedtareeq786/Sales_2020/assets/133824825/143cb16b-fbda-47fb-b789-f9d641ed2d3d)
+
+
 ## Getting Started
 
 To get started with this project, you'll need to have Power BI Desktop installed on your computer. You can download it from the official Microsoft website.
