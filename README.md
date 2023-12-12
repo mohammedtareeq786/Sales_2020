@@ -1,4 +1,4 @@
-# Power BI Desktop Project
+# DataPulse: Product Sales Analysis
 
 This repository contains a tutorial on how to use Power BI Desktop, a data visualization and analysis software, to create interactive reports and dashboards from various data sources.
 
